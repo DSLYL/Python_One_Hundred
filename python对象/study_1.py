@@ -2,7 +2,7 @@
 class Person:
     def work(self):
         print("努力学习")
-#ch
+
 
 def play_game(s):
     print("{0}在玩游戏".format(s))
