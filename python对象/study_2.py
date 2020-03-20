@@ -19,7 +19,7 @@ print(e.name)
 #下面2个是不对的
 # print(e.__age)
 # print(e.__work())
-
+#ss
 print(e._Student__age)
 e._Student__work()
 print(Student._Student__Teacher)
