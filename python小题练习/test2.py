@@ -14,9 +14,9 @@ def fun(n):
 
 
 if __name__ == '__main__':
-    r = fun(int(eval(input("输入要判断的数字："))))
-    print(r)
-    i = 0
+    # r = fun(int(eval(input("输入要判断的数字："))))
+    # print(r)
+    i = 2
     while i < 1001:
         r1 = fun(i)
         if r1 == 1:
