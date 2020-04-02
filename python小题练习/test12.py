@@ -15,3 +15,5 @@ plt.title('f(x) = sin^2(x-2)e^{-x^2}函数图')
 plt.legend()
 plt.show()
 
+
+

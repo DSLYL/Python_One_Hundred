@@ -36,25 +36,31 @@
 # t.hideturtle()  # 隐藏画笔
 # turtle.done()  # 使窗口不自动关闭
 
+
+
+
+# import turtle
+#
+# t = turtle.Pen()
+# t.hideturtle()     #隐藏箭头
+# t.speed(100)
+# #棋盘由横线和竖线组成，主要是控制好它们的数量。
+# #横线
+# for m in range(0, 19):
+#     #回来的时候避免画线，所以抬笔
+#     t.penup()
+#     #20是棋格的宽度
+#     t.goto(0, m * 20)
+#     t.pendown()
+#     t.goto(360, m * 20)
+# #竖线
+# for n in range(0, 19):
+#     t.penup()
+#     t.goto(n * 20, 0)
+#     t.pendown()
+#     t.goto(n * 20, 360)
+#
+# turtle.done()  # 使窗口不自动关闭
+
 import turtle
-
 t = turtle.Pen()
-t.hideturtle()     #隐藏箭头
-t.speed(100)
-#棋盘由横线和竖线组成，主要是控制好它们的数量。
-#横线
-for m in range(0, 19):
-    #回来的时候避免画线，所以抬笔
-    t.penup()
-    #20是棋格的宽度
-    t.goto(0, m * 20)
-    t.pendown()
-    t.goto(360, m * 20)
-#竖线
-for n in range(0, 19):
-    t.penup()
-    t.goto(n * 20, 0)
-    t.pendown()
-    t.goto(n * 20, 360)
-
-turtle.done()  # 使窗口不自动关闭
