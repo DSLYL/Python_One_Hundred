@@ -1,9 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f33d00e4-e20c-409b-b043-658ef1e8aa1a" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="f33d00e4-e20c-409b-b043-658ef1e8aa1a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/GUI学习.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/Test9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/a.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/aa.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/b.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/bb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/cc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/puke/puke1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/puke/puke10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/puke/puke2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/puke/puke3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/puke/puke4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/puke/puke5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/puke/puke6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/puke/puke7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/puke/puke8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/puke/puke9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/puke/pukebeimian.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiTheFd/imgs/start.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python实验/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python实验/.idea/python实验.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python实验/mypy01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python文件/.idea/python文件.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py结课小项目/.idea/py结课小项目.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py结课小项目/饿死老鹰/.idea/老鹰抓小鸡.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../异常学习/.idea/异常学习.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiTheFd/Test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiTheFd/Test01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pro_gui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pro_gui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my04.py" beforeDir="false" afterPath="$PROJECT_DIR$/my04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my07.py" beforeDir="false" afterPath="$PROJECT_DIR$/my07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my15.py" beforeDir="false" afterPath="$PROJECT_DIR$/my15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my18.py" beforeDir="false" afterPath="$PROJECT_DIR$/my18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my19.py" beforeDir="false" afterPath="$PROJECT_DIR$/my19.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,31 +104,6 @@
     <SUITE FILE_PATH="coverage/pro_gui$gui14.coverage" NAME="gui14 Coverage Results" MODIFIED="1546052416126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pro_gui$my22.coverage" NAME="my22 Coverage Results" MODIFIED="1558692960316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="pen.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pen.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="886">
-              <caret line="120" column="26" selection-start-line="120" selection-start-column="26" selection-end-line="120" selection-end-column="26" />
-              <folding>
-                <element signature="e#19#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="huatu2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/huatu2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="63" selection-start-line="63" selection-end-line="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -87,99 +116,23 @@
       <find>content</find>
     </findStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/gui02.py" />
-        <option value="$PROJECT_DIR$/gui05.py" />
-        <option value="$PROJECT_DIR$/gui06.py" />
-        <option value="$PROJECT_DIR$/gui08.py" />
-        <option value="$PROJECT_DIR$/gui09.py" />
-        <option value="$PROJECT_DIR$/gui10.py" />
-        <option value="$PROJECT_DIR$/gui11.py" />
-        <option value="$PROJECT_DIR$/gui13.py" />
-        <option value="$PROJECT_DIR$/gui14.py" />
-        <option value="$PROJECT_DIR$/gui15.py" />
-        <option value="$PROJECT_DIR$/gui16.py" />
-        <option value="$PROJECT_DIR$/gui17.py" />
-        <option value="$PROJECT_DIR$/gui18.py" />
-        <option value="$PROJECT_DIR$/gui19.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/gui01.py" />
-        <option value="$PROJECT_DIR$/gui12.py" />
-        <option value="$PROJECT_DIR$/gui002.py" />
-        <option value="$PROJECT_DIR$/gui03.py" />
-        <option value="$PROJECT_DIR$/gui04.py" />
-        <option value="$PROJECT_DIR$/salary.py" />
-        <option value="$PROJECT_DIR$/test2.py" />
-        <option value="$PROJECT_DIR$/b/B.py" />
-        <option value="$PROJECT_DIR$/a/module_A2.py" />
-        <option value="$PROJECT_DIR$/a/module_A3.py" />
-        <option value="$PROJECT_DIR$/a/__init__.py" />
-        <option value="$PROJECT_DIR$/a/module_A.py" />
-        <option value="$PROJECT_DIR$/b/module_B.py" />
-        <option value="$PROJECT_DIR$/a/aa/module_AA.py" />
-        <option value="$PROJECT_DIR$/s/setup.py" />
-        <option value="$PROJECT_DIR$/test3.py" />
-        <option value="$PROJECT_DIR$/salary/setup.py" />
-        <option value="$PROJECT_DIR$/gui07.py" />
-        <option value="$PROJECT_DIR$/test4.py" />
-        <option value="$PROJECT_DIR$/my18.py" />
-        <option value="$PROJECT_DIR$/my19.py" />
-        <option value="$PROJECT_DIR$/my20.py" />
-        <option value="$PROJECT_DIR$/my21.py" />
-        <option value="$PROJECT_DIR$/my22.py" />
-        <option value="$PROJECT_DIR$/my23.py" />
-        <option value="$PROJECT_DIR$/my24.py" />
-        <option value="$PROJECT_DIR$/my25.py" />
-        <option value="$PROJECT_DIR$/my26.py" />
-        <option value="$PROJECT_DIR$/notebood.py" />
-        <option value="$PROJECT_DIR$/huatu.py" />
-        <option value="$PROJECT_DIR$/huatu2.py" />
-        <option value="$PROJECT_DIR$/notebook.py" />
-        <option value="$PROJECT_DIR$/pen.py" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="pro_gui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pro_gui" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1a7gOmxK9shJ1lRqULk00oZhVjj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -192,20 +145,8 @@
       <recent name="C:\Users\Administrator\PycharmProjects\pro_gui\s" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.pen">
-    <configuration name="huatu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.my20">
+    <configuration name="my18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pro_gui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,13 +159,16 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/huatu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="huatu2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="my19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pro_gui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,13 +181,16 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/huatu2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="my26" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="my20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pro_gui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,13 +203,16 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my26.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="notebook" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="my21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pro_gui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,13 +225,16 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebook.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="pen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="my22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pro_gui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,26 +247,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.my26" />
-      <item itemvalue="Python.notebook" />
-      <item itemvalue="Python.huatu" />
-      <item itemvalue="Python.huatu2" />
-      <item itemvalue="Python.pen" />
+      <item itemvalue="Python.my18" />
+      <item itemvalue="Python.my19" />
+      <item itemvalue="Python.my20" />
+      <item itemvalue="Python.my21" />
+      <item itemvalue="Python.my22" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pen" />
-        <item itemvalue="Python.huatu2" />
-        <item itemvalue="Python.huatu" />
-        <item itemvalue="Python.notebook" />
-        <item itemvalue="Python.my26" />
+        <item itemvalue="Python.my20" />
+        <item itemvalue="Python.my22" />
+        <item itemvalue="Python.my21" />
+        <item itemvalue="Python.my19" />
+        <item itemvalue="Python.my18" />
       </list>
     </recent_temporary>
   </component>
@@ -327,374 +283,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545910882797</updated>
+      <workItem from="1586092018256" duration="3284000" />
+      <workItem from="1586133365824" duration="10442000" />
+      <workItem from="1586183252120" duration="211000" />
     </task>
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1170" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="bottom" id="TODO" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="5" weight="0.32901296" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23723723" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32832834" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49876237" visible="true" weight="0.13572961" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="2" />
-      <window_info anchor="bottom" id="Find" order="10" weight="0.3298872" />
-      <window_info anchor="right" id="SciView" order="0" />
-      <window_info id="Structure" order="1" sideWeight="0.50123763" side_tool="true" weight="0.17447917" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.16916917" />
-      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="9" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586183356573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586183356573" />
+    <state width="1493" height="131" key="GridCell.Tab.0.bottom" timestamp="1586183192613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586183192613" />
+    <state width="1493" height="131" key="GridCell.Tab.0.center" timestamp="1586183192613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586183192613" />
+    <state width="1493" height="131" key="GridCell.Tab.0.left" timestamp="1586183192613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586183192613" />
+    <state width="1493" height="131" key="GridCell.Tab.0.right" timestamp="1586183192613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586183192613" />
+    <state x="0" y="57" key="SettingsEditor" timestamp="1586092651323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586092651323" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="2" />
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="a._noarg_" />
       </configuration>
     </watches-manager>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="uml://Python/tkinter.Button">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Python</ID>
-          <OriginalElement>tkinter.Button</OriginalElement>
-          <nodes>
-            <node x="286.5" y="0.0">object</node>
-            <node x="24.0" y="86.0">tkinter.Misc</node>
-            <node x="342.0" y="86.0">tkinter.Grid</node>
-            <node x="254.5" y="258.0">tkinter.Widget</node>
-            <node x="183.0" y="86.0">tkinter.Pack</node>
-            <node x="0.0" y="172.0">tkinter.BaseWidget</node>
-            <node x="501.0" y="86.0">tkinter.Place</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="tkinter.Misc" target="object">
-              <point x="0.0" y="-18.0" />
-              <point x="93.5" y="56.0" />
-              <point x="297.875" y="56.0" />
-              <point x="-34.125" y="18.0" />
-            </edge>
-            <edge source="tkinter.Pack" target="object">
-              <point x="0.0" y="-18.0" />
-              <point x="252.5" y="66.0" />
-              <point x="320.625" y="66.0" />
-              <point x="-11.375" y="18.0" />
-            </edge>
-            <edge source="tkinter.BaseWidget" target="tkinter.Misc">
-              <point x="0.0" y="-18.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="tkinter.Place" target="object">
-              <point x="0.0" y="-18.0" />
-              <point x="574.5" y="56.0" />
-              <point x="366.125" y="56.0" />
-              <point x="34.125" y="18.0" />
-            </edge>
-            <edge source="tkinter.Widget" target="tkinter.Grid">
-              <point x="19.375" y="-18.0" />
-              <point x="351.375" y="228.0" />
-              <point x="411.5" y="228.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="tkinter.Grid" target="object">
-              <point x="0.0" y="-18.0" />
-              <point x="411.5" y="66.0" />
-              <point x="343.375" y="66.0" />
-              <point x="11.375" y="18.0" />
-            </edge>
-            <edge source="tkinter.Widget" target="tkinter.BaseWidget">
-              <point x="-58.125" y="-18.0" />
-              <point x="273.875" y="238.0" />
-              <point x="93.5" y="238.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="tkinter.Widget" target="tkinter.Pack">
-              <point x="-19.375" y="-18.0" />
-              <point x="312.625" y="228.0" />
-              <point x="252.5" y="228.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="tkinter.Widget" target="tkinter.Place">
-              <point x="58.125" y="-18.0" />
-              <point x="390.125" y="238.0" />
-              <point x="574.5" y="238.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-33.0" y="-48.0" />
-          <SelectedNodes>
-            <node>tkinter.BaseWidget</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui12.py" />
-    <entry file="file://$PROJECT_DIR$/gui16_17.py" />
-    <entry file="file://$PROJECT_DIR$/gui19.py" />
-    <entry file="file://$PROJECT_DIR$/gui15.py" />
-    <entry file="file://$PROJECT_DIR$/gui002.py" />
-    <entry file="file://$PROJECT_DIR$/gui02.py" />
-    <entry file="file://$PROJECT_DIR$/gui01.py" />
-    <entry file="file://$PROJECT_DIR$/gui03.py" />
-    <entry file="file://$PROJECT_DIR$/gui05.py" />
-    <entry file="uml://Python/tkinter.StringVar">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Python</ID>
-          <OriginalElement>tkinter.StringVar</OriginalElement>
-          <nodes>
-            <node x="" y="">tkinter.StringVar</node>
-            <node x="" y="">tkinter.Variable</node>
-            <node x="" y="">object</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="90.0" y="104.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://Python/tkinter.Variable">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Python</ID>
-          <OriginalElement>tkinter.Variable</OriginalElement>
-          <nodes>
-            <node x="" y="">tkinter.Variable</node>
-            <node x="" y="">object</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="86.0" y="61.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui04.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/370592593/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="553" column="16" lean-forward="true" selection-start-line="553" selection-start-column="4" selection-end-line="553" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/370592593/math.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/a/module_A2.py" />
-    <entry file="file://$PROJECT_DIR$/a/module_A3.py" />
-    <entry file="file://$PROJECT_DIR$/a/module_A.py" />
-    <entry file="file://$PROJECT_DIR$/a/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/b/module_B1.py" />
-    <entry file="file://$PROJECT_DIR$/a/aa/module_AA.py" />
-    <entry file="file://$PROJECT_DIR$/b/module_B2.py" />
-    <entry file="file://$PROJECT_DIR$/salary/salary.py" />
-    <entry file="file://$PROJECT_DIR$/salary/MANIFEST" />
-    <entry file="file://$PROJECT_DIR$/test3.py" />
-    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/turtle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="241" column="7" lean-forward="true" selection-start-line="241" selection-start-column="7" selection-end-line="241" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/salary/setup.py" />
-    <entry file="file://$PROJECT_DIR$/gui07.py" />
-    <entry file="file://$PROJECT_DIR$/test4.py" />
-    <entry file="file://$PROJECT_DIR$/gui10.py" />
-    <entry file="file://$PROJECT_DIR$/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-447">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my22.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#39#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="6" lean-forward="true" selection-end-line="18" />
-          <folding>
-            <element signature="e#30#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="23" selection-end-line="71" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-405" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#17#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my24.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#13#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my23.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my25.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/tkinter/filedialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="335" column="40" lean-forward="true" selection-start-line="335" selection-start-column="31" selection-end-line="335" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huatu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="127" selection-start-line="127" selection-end-line="129" selection-end-column="37" />
-          <folding>
-            <element signature="e#14#35#0" expanded="true" />
-            <element signature="e#417#679#0" />
-            <element signature="e#706#796#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="e#19#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my26.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="13" column="25" selection-end-line="64" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/tkinter/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="2488" column="27" selection-start-line="2488" selection-start-column="15" selection-end-line="2488" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huatu2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="886">
-          <caret line="120" column="26" selection-start-line="120" selection-start-column="26" selection-end-line="120" selection-end-column="26" />
-          <folding>
-            <element signature="e#19#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pro_gui$my18.coverage" NAME="my18 Coverage Results" MODIFIED="1586181627874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pro_gui$my20.coverage" NAME="my20 Coverage Results" MODIFIED="1586183324234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pro_gui$my17.coverage" NAME="my17 Coverage Results" MODIFIED="1586180952569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pro_gui$my19.coverage" NAME="my19 Coverage Results" MODIFIED="1586182206653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pro_gui$my15.coverage" NAME="my15 Coverage Results" MODIFIED="1586169636967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pro_gui$my11.coverage" NAME="my11 Coverage Results" MODIFIED="1586092829173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pro_gui$my21.coverage" NAME="my21 Coverage Results" MODIFIED="1586182615860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pro_gui$my22.coverage" NAME="my22 Coverage Results" MODIFIED="1586182755218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pro_gui$my14.coverage" NAME="my14 Coverage Results" MODIFIED="1586139447954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

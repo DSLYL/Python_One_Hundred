@@ -14,6 +14,7 @@ def mouseTest(event):
     print("鼠标左键单击位置(相对于屏幕)：{0},{1}".format(event.x_root,event.y_root))
     print("事件绑定的组件：{0}".format(event.widget))
 
+
 def testDrag(event):
     c1.create_oval(event.x,event.y,event.x+1,event.y+1)
 

@@ -13,7 +13,7 @@ class Application(Frame):
 
 
     def createWidget(self):
-        self.v = StringVar();
+        self.v = StringVar()
         self.v.set("F")
 
         self.r1 = Radiobutton(self, text="男性", value="M", variable=self.v)

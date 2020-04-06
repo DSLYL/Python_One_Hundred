@@ -22,7 +22,7 @@ class Application(Frame):
         photo = PhotoImage(file="imgs/start.gif")
         self.btn02 = Button(root, image=photo,command=self.login)
         self.btn02.pack()
-        self.btn02.config(state="disabled")  #设置按钮为禁用
+        # self.btn02.config(state="disabled")  #设置按钮为禁用
 
 
     def login(self):
