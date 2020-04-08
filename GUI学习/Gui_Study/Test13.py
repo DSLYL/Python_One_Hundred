@@ -1,0 +1,14 @@
+from tkinter import *
+
+
+root = Tk()
+root.geometry('500x300')
+root.title('布局管理器place')
+root['bg'] = 'white'
+f1 = Frame(root, width=200, height=200, bg='green')
+f1.place(x=30,y=30)
+Button(root, text='我是谁').place(relx=0.2, x=100, y=20, relwidth=0.2, relheight=0.5)
+Label(f1,text='我要写代码').place(relx=0.3, rely=0.5, relwidth=0.4, relheight=0.2)
+
+
+root.mainloop()
